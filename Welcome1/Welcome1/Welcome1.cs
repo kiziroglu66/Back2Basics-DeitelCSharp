@@ -3,6 +3,9 @@
 
 using System;
 
+/// <summary>
+/// Documentation comment type here.
+/// </summary>
 class Welcome1
 {
     // Main method begins execution of C# app
