@@ -1,0 +1,15 @@
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\bin\Debug\net6.0\Welcome2.exe
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\bin\Debug\net6.0\Welcome2.deps.json
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\bin\Debug\net6.0\Welcome2.runtimeconfig.json
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\bin\Debug\net6.0\Welcome2.dll
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\bin\Debug\net6.0\Welcome2.pdb
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.csproj.AssemblyReference.cache
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.AssemblyInfoInputs.cache
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.AssemblyInfo.cs
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.csproj.CoreCompileInputs.cache
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.dll
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\refint\Welcome2.dll
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.pdb
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\Welcome2.genruntimeconfig.cache
+C:\Calismalar\CSharpCalismalari\Back2Basics\DeitelCSharp\Back2Basics-DeitelCSharp\Welcome2\Welcome2\obj\Debug\net6.0\ref\Welcome2.dll
